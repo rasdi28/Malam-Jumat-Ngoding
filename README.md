@@ -32,5 +32,8 @@ Repository Malam-Jumat-Ngoding
     
   ![push to repository](https://github.com/IncubieWebdev/-Malam-Jumat-Ngoding/blob/master/images/5.gif)
   
-* 
-* 
+* Setelah itu check repository kalian,setelah selesai proses push, klik menu settings, dan cari github pages, ganti source nya menjadi master branch dan kalian bsia mengganti nama github repository kalian setelah selesai ketik url di browser kalian seperti ini :
+ `username.github.oi/nama-repository-kalian`
+![github pages](https://github.com/IncubieWebdev/-Malam-Jumat-Ngoding/blob/master/images/6.gif)
+
+* And All Done!
